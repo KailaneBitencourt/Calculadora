@@ -1,6 +1,18 @@
-3) Escreva um programa em Java que leia dois números e solicite o tipo de operação a
-ser realizada. As operações podem ser: soma, subtração, multiplicação e divisão.
-Para realizar os cálculos, programe uma classe que será responsável por realizar o
-cálculo e programe uma classe chamada ProgramaCalculadora que será
-responsável por executar o programa que solicitará do usuário os dois números
-para uma operação que também deve ser informada por ele.
+# 🧮 Programa Calculadora em Java
+
+## Descrição
+
+Este é um simples programa em Java que realiza operações matemáticas básicas entre dois números fornecidos pelo usuário.  
+As operações disponíveis são:
+
+- ➕ **Soma**
+- ➖ **Subtração**
+- ✖️ **Multiplicação**
+- ➗ **Divisão**
+
+O programa é composto por duas classes:
+
+- `Calculadora` → Responsável por implementar a lógica dos cálculos.
+- `ProgramaCalculadora` → Responsável por interagir com o usuário, capturar os números e o tipo de operação desejada, e exibir o resultado.
+
+---
